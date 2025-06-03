@@ -38,3 +38,23 @@ This is a more efficient method, especially for larger numbers.
 
 #### Example:
 Find the HCF of `48` and `18`:  
+- `48 ÷ 18 = 2 remainder 12`
+- `18 ÷ 12 = 1 remainder 6`
+- `12 ÷ 6 = 2 remainder 0`
+- `=> HCF = 6`
+
+  
+---
+
+## 📌 Use Cases
+- Simplifying fractions
+- Cryptographic algorithms
+- Mathematical computations in software development
+
+---
+
+## 🧾 Note
+This project focuses on understanding and documenting the **theory and logic** behind HCF calculation. No code is included in this version.
+
+---
+
